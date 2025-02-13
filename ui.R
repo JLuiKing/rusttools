@@ -1,5 +1,5 @@
 # Define FELIXapp UI 
-ui <- fluidPage(
+fluidPage(
   # Set UI theme 
   theme = bs_theme(version = 5, bootswatch = "minty"),
   # Sidebar layout with a input and output definitions ----
